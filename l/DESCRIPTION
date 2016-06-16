@@ -1,0 +1,13 @@
+Package: suma
+Type: Package
+Title: Suma 2 números
+Version: 0.1
+Date: 2016-06-15
+Author: arturo touchard vicente <arturo.touchard@live.u-tad.com>
+Maintainer: arturo touchard vicente <arturo.touchard@live.u-tad.com>
+Description: Suma 2 números cualesquiera que se le pasen a la función
+License: GPL
+LazyData: TRUE
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2016-06-15 19:31:41 UTC; arturo
